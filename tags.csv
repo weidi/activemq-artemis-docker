@@ -73,4 +73,5 @@ qoricode/activemq-artemis,2.18.0,openjdk:8u232-jre-stretch,qoricode/activemq-art
 qoricode/activemq-artemis,2.18.0-alpine,openjdk:8u212-jre-alpine3.9,qoricode/activemq-artemis:2.18-alpine-latest qoricode/activemq-artemis:2-alpine-latest qoricode/activemq-artemis:alpine-latest,Dockerfile.alpine
 qoricode/activemq-artemis,2.19.0,openjdk:8u232-jre-stretch,qoricode/activemq-artemis:2.19-latest qoricode/activemq-artemis:2-latest qoricode/activemq-artemis:latest,Dockerfile
 qoricode/activemq-artemis,2.19.0-alpine,openjdk:8u212-jre-alpine3.9,qoricode/activemq-artemis:2.19-alpine-latest qoricode/activemq-artemis:2-alpine-latest qoricode/activemq-artemis:alpine-latest,Dockerfile.alpine
-qoricode/activemq-artemis,2.19.0-alpine,openjdk:18-alpine3.15,qoricode/activemq-artemis:2.19-alpine-latest qoricode/activemq-artemis:2-alpine-latest qoricode/activemq-artemis:alpine-latest,Dockerfile.alpine
+qoricode/activemq-artemis,2.19.0-alpine,openjdk:17-alpine,qoricode/activemq-artemis:2.19-alpine-latest qoricode/activemq-artemis:2-alpine-latest qoricode/activemq-artemis:alpine-latest,Dockerfile.alpine
+qoricode/activemq-artemis,2.20.0-alpine,openjdk:17-alpine,qoricode/activemq-artemis:2.20-alpine-latest qoricode/activemq-artemis:2-alpine-latest qoricode/activemq-artemis:alpine-latest,Dockerfile.alpine

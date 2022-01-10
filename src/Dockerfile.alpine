@@ -4,7 +4,7 @@
 ## Build Image                                           #
 ##########################################################
 ARG BASE_IMAGE
-FROM openjdk:8u312-jdk-slim-bullseye as builder
+FROM openjdk:11-jdk-slim-bullseye as builder
 LABEL maintainer="Not maintained for public use - use at your own risk!"
 
 ARG ACTIVEMQ_ARTEMIS_VERSION
